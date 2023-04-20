@@ -15,4 +15,4 @@
 
 ## 💻 L RMN
 
-Link Bio made with love
+Portfolio made with love
